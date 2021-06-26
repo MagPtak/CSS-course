@@ -9,3 +9,7 @@ h2{
     color: red;
 }
 
+span{
+    display: block;
+    color: pink;
+}
