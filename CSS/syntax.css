@@ -1,3 +1,11 @@
-#all-articles h2 + p{
-    color:lightseagreen
+span[class~=deck]{
+    color:magenta;
+}
+
+div[id]{
+    background: grey;
+}
+
+a[href$="pdf"]{
+    color:magenta;
 }
