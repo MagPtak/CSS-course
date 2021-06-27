@@ -1,19 +1,6 @@
-/* Targeting elements / tags */
-h2{
-    font-size: 24px;
-    color: green;
-}
-
-#content-header{
-    font-size: 18px;
-    color: red;
-}
-
-span{
-    display: block;
-    color: pink;
-}
-
-.deck{
-    color: grey
+p, li, span, a{
+    color: lightseagreen;
+    font-size: 14px;
+    font-family: Arial;
+    font-weight: bold;
 }
