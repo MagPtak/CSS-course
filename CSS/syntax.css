@@ -1,3 +1,7 @@
-article:nth-of-type(2){
-    background-color: lightpink;
+article.featured-content{
+    background-color: lightsalmon;
+}
+
+div.featured-content{
+    background-color: lightseagreen;
 }
