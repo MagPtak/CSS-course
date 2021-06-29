@@ -1,7 +1,3 @@
-li:nth-child(even){
-    background: lightyellow;
-}
-
-Li:nth-child(odd){
-    background: aquamarine
+article:nth-of-type(2){
+    background-color: lightpink;
 }
