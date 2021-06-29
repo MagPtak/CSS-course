@@ -1,11 +1,3 @@
-span[class~=deck]{
-    color:magenta;
-}
-
-div[id]{
-    background: grey;
-}
-
-a[href$="pdf"]{
-    color:magenta;
-}
+ a:hover{
+     color:green;
+ }
