@@ -3,5 +3,5 @@ article p:first-of-type{
 }
  
 article p:last-of-type{
-    color:mediumaquamarine
+    color:mediumaquamarine;
 }
