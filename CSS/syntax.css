@@ -1,7 +1,5 @@
-article.featured-content{
-    background-color: lightsalmon;
-}
-
-div.featured-content{
-    background-color: lightseagreen;
+*{
+    margin: 0;
+    background-color: grey;
+    color: lightgoldenrodyellow
 }
