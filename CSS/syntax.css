@@ -1,7 +1,7 @@
 .static-width{
     width: 300px;
     height: 300px;
-    background-color: #606060;
-    background-image: url(http://clipart-library.com/clip-art/small-transparent-image-8.htm);
-    background-repeat: round;
+    background: url(http://clipart-library.com/clip-art/small-transparent-image-8.htm) no-repeat top-center;
+    background-color: red;
+    background-size: 200px;
 }
