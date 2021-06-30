@@ -1,11 +1,3 @@
-a{
-    color:mediumseagreen;
-    background-color: mistyrose;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-a:hover{
-    color:purple;
-    text-decoration: underline;
-}
+ p{
+     letter-spacing: 10px;
+ }
