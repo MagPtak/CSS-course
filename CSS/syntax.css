@@ -1,7 +1,9 @@
 .static-width{
-    width: 300px;
-    height: 300px;
+    width: 600px;
+    height: 600px;
     background-color: #606060;   
     background-image: url(https://www.v-methods.com/images/pal_alpha/pretty_rgba.png);
+    background-repeat: no-repeat;
+    background-position: top-center;
 }
   
