@@ -2,28 +2,31 @@
     height: 400px;
     width: 400px;
     position: absolute;
-    background: rgb(200, 200, 100);
+    background: rgba(200, 200, 100, 1);
     border-radius: 200px;
-    top: 250px;
+    top: 50px;
     left: 50px;
+    text-align: center;
 }
 
 #circle-2{
     height: 400px;
     width: 400px;
     position: absolute;
-    background: rgb(200, 100, 200);
+    background: rgba(200, 100, 200, 0.3);
     border-radius: 200px;
     top: 250px;
     left: 150px;
+    text-align: center;
 }
 
 #circle-3{
     height: 400px;
     width: 400px;
     position: absolute;
-    background: rgb(100, 200, 200);
+    background: rgba(100, 200, 200, 0.1);
     border-radius: 200px;
     top: 50px;
     left: 250px;
+    text-align: center;
 }
