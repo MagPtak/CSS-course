@@ -1,8 +1,29 @@
-.banner{
- 
-    width: 100%;
-    height: 300px; 
-    background-color: rgb(250, 150, 60);
+#circle{
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    background: rgb(200, 200, 100);
+    border-radius: 200px;
+    top: 250px;
+    left: 50px;
 }
- 
-  
+
+#circle-2{
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    background: rgb(200, 100, 200);
+    border-radius: 200px;
+    top: 250px;
+    left: 150px;
+}
+
+#circle-3{
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    background: rgb(100, 200, 200);
+    border-radius: 200px;
+    top: 50px;
+    left: 250px;
+}
